@@ -1,0 +1,22 @@
+{
+  "name": "docker_web_server",
+  "version": "1.0.0",
+  "description": "NodeJs Web App with Docker, MongoDB and Kubernettes",
+  "main": "main_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelf27/docker_web_server.git"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Rachel Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelf27/docker_web_server/issues"
+  },
+  "homepage": "https://github.com/rachelf27/docker_web_server#readme"
+}
